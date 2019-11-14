@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Aula de Testes 02</title>
+</head>
+<body>
+
+</body>
+<script>
+    var numero1 = parseFloat(prompt("Digite um número: "));
+    function descobrir (numero1) {
+        if (numero1 === 21) {
+            alert("Você acertou!")
+            return true
+        } else {
+            alert("Você errou")
+            return false
+        }
+    }
+
+descobrir(21) 
+descobrir("21") 
+descobrir("%%")  
+descobrir("")  
+descobrir(-21)  
+descobrir(21+"") 
+descobrir(20+1) 
+descobrir(2+1) 
+descobrir(22-1) 
+descobrir(21.2)
+
+
+
+</script>
+</html>
