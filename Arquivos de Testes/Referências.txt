@@ -1,0 +1,5 @@
+https://gabrielscavassa.wordpress.com/2016/08/12/configurando-sonarqube-no-windows/
+
+http://karanalpe.com.br/tecnologia/instalacao-e-configuracao-sonar/
+
+https://imasters.com.br/back-end/configurando-sonarqube-e-phpstorm
